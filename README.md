@@ -1,4 +1,4 @@
-# A Google Colab implementation of a Dog Breed Classifier, using Inception v3
+# A Google Colab implementation of a dog breed classifier, using TensorFlow and Inception v3
 
 This colab notebook uses the Stanford Dogs dataset: http://vision.stanford.edu/aditya86/ImageNetDogs/
 
